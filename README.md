@@ -1,6 +1,7 @@
 #ISIS1225 - Estructura de un proyecto
 
 Estudiante 1: Camilo Navarro Ortiz, 201714025, c.navaroo@uniandes.edu.co
+
 Estudiante 2: Mateo Lopez Cespedes, 202014481, m.lopez23@uniandes.edu.co
 
 Este proyecto busca mostrar una posible forma de organizar el código que se va a desarrollar en los proyectos del curso.
